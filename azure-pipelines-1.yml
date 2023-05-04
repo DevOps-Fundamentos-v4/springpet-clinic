@@ -9,7 +9,6 @@ steps:
     organization: 'diegocean'
     projectKey: 'Diegocean_springpet-clinic'
     projectName: 'springpet-clinic'
-    scannerMode: 'Other'
   displayName: 'Prepare SonarCloud'
 
 - task: Gradle@3
